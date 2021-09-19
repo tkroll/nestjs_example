@@ -6,6 +6,7 @@ nest new nestjs
 cd nestjs
 
 npm i @nestjs/mongoose mongoose
+nest g resource test
 ```
 
 <p align="center">
